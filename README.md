@@ -1,3 +1,3 @@
-# gitdemo
+# apna college practise
 tHIS IS MY FIRST GIT REPOSITORY.
 aUTHOR - MANAS SANKHLA
